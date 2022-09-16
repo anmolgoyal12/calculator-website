@@ -3,6 +3,10 @@ body {
     background-color: lightgrey;
     padding-top: 90px;
 }
+.set {
+    width: 190px;
+    padding-left: 35px;
+}
 
 .base {
     text-align: center;
